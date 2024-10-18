@@ -1,6 +1,6 @@
 # Barley Phenology 2023
 
-Brief Introduction
+Data used in the analysis is located in the "data" folder. All relevant scripts, including python scripts and jupyter notebooks are in the "script" folder.
 
 
 # Blast result collecting and tpm data extraction  
